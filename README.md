@@ -1,2 +1,2 @@
-# HarvardX CS50AI
+# HarvardX CS50AI Projects
 CS50's Introduction to Artificial Intelligence with Python
